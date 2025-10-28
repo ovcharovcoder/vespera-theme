@@ -43,14 +43,14 @@
         "path": "./themes/vespera-dark-color-theme.json"
       },
 	  {
-        "label": "Vespera Dark Warm",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vespera-dark-warm-color-theme.json"
-      },
-      {
         "label": "Vespera Dark Ultra",
         "uiTheme": "vs-dark",
         "path": "./themes/vespera-dark-ultra-color-theme.json"
+      },
+	  {
+        "label": "Vespera Dark Warm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vespera-dark-warm-color-theme.json"
       }
     ]
   }
