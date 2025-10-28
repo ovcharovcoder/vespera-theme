@@ -24,7 +24,7 @@ Inspired by deep night hues, subtle contrasts, and modern minimalism, Vespera br
 
 1. Open **VS Code → Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X`).  
 2. Search for **Vespera Theme** and click **Install**.  
-3. Press `Ctrl+Shift+P` → `Preferences: Color Theme` → select **Vespera Night** or **Vespera Midnight**.  
+3. Press `Ctrl+Shift+P` → `Preferences: Color Theme` → select **Vespera Dark**, **Vespera Dark Ultra** or **Vespera Dark Warm**.   
 4. Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.vespera-theme).
 
 ---
