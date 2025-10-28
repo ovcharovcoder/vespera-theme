@@ -21,13 +21,13 @@ Inspired by deep night hues, subtle contrasts, and modern minimalism, Vespera br
 ---
 
 ### Vespera Dark
-![Vespera Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/vespera-dark.png)
+![Vespera Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vespera-dark.png)
 
 ### Vespera Dark Ultra
-![Vespera Dark Ultra Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/vespera-dark-ultra.png)
+![Vespera Dark Ultra Preview](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vespera-dark-ultra.png)
 
 ### Vespera Dark Warm
-![Vespera Dark Warm Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/vespera-dark-warm.png)
+![Vespera Dark Warm Preview](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vespera-dark-warm.png)
 
 ---
 
