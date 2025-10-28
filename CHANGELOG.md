@@ -9,3 +9,4 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 ### Added
 The initial release of the Vespera theme, combining the separate Vespera Dark, Vespera Dark Ultra, and Vespera Dark Warm themes into a single theme package. Syntax highlighting for JavaScript, TypeScript, HTML, CSS/SCSS/SASS, PHP, Python, Java, C/C++, Ruby, JSX/TSX, JSON, YAML, and Markdown.
 
+
