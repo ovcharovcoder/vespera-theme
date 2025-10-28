@@ -11,12 +11,23 @@ Inspired by deep night hues, subtle contrasts, and modern minimalism, Vespera br
 
 ## ✨ Features
 
-- 🌌 **Dark Variants:** **Vespera Dark**, **Vespera Dark Warm** and **Vespera Dark Ultra**.   
+- 🌌 **Dark Variants:** **Vespera Dark**, **Vespera Dark Ultra** and **Vespera Dark Warm**.   
 - 🧠 **Semantic Highlighting:** Clear hierarchy for functions, classes, and variables.  
 - 🎨 **Tailwind CSS Support:** Enhanced highlighting for utilities, SCSS variables, and mixins.  
 - 💻 **Wide Language Coverage:** JavaScript, TypeScript, PHP, HTML, CSS/SCSS, Python, Java, C/C++, Ruby, JSX/TSX, and more.  
 - 👁 **Accessible Design:** All colors meet **WCAG 2.1** contrast standards.  
 - 🌙 **Subtle UI Design:** Keeps focus on your code with minimal distractions.
+
+---
+
+### Vespera Dark
+![Vespera Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/light-theme.png)
+
+### Vespera Dark Ultra
+![Vespera Dark Ultra Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/dark-theme.png)
+
+### Vespera Dark Warm
+![Vespera Dark Warm Preview](https://raw.githubusercontent.com/ovcharovcoder/barva-theme/main/images/dark-theme.png)
 
 ---
 
