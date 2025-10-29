@@ -4,7 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/ovcharovcoder/vespera-theme?color=yellow)](https://github.com/ovcharovcoder/vespera-theme)
 [![License](https://img.shields.io/github/license/ovcharovcoder/vespera-theme?color=green)](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/LICENSE)
 
-![Vespera Theme Banner](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/banner.png)
+![Vespera Theme Banner](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vesper-banner.png)
 
 > **Vespera Theme** — a dark, refined, and immersive color theme for Visual Studio Code.
 Inspired by deep night hues, subtle contrasts, and modern minimalism, Vespera brings balance and clarity to long coding sessions.
