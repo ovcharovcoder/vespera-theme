@@ -40,7 +40,7 @@
     {
 	"scope": ["comment", "punctuation.definition.comment"],
 	"settings": {
-	  "foreground": "#708090","fontStyle": "italic"
+	  "foreground": "#708090","fontStyle": ""
 	 }
 	},
     {
@@ -147,3 +147,4 @@
 	}
   ]
 }
+
