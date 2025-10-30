@@ -2,7 +2,7 @@
   "name": "vespera-theme",
   "displayName": "Vespera Theme",
   "description": "A refined dark theme collection for VS Code — inspired by the night sky, minimalist design, and modern warmth.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "ovcharovcoder",
   "repository": {
     "type": "git",
@@ -54,4 +54,5 @@
     ]
   }
 }
+
 
