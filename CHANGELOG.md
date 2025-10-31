@@ -4,6 +4,12 @@ All notable changes to the Vespera Theme VS Code extension will be documented in
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 <br>
 
+## [1.0.4] - 2025-10-31
+
+### Added
+
+- Vespera Dark Pro Theme.
+
 ## [1.0.1] - 2025-10-29
 
 ### Added
