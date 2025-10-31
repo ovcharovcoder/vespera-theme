@@ -2,7 +2,7 @@
   "name": "vespera-theme",
   "displayName": "Vespera Theme",
   "description": "A refined dark theme collection for VS Code — inspired by the night sky, minimalist design, and modern warmth.",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "publisher": "ovcharovcoder",
   "repository": {
     "type": "git",
@@ -45,6 +45,11 @@
         "label": "Vespera Dark Ultra",
         "uiTheme": "vs-dark",
         "path": "./themes/vespera-dark-ultra-color-theme.json"
+      },
+	  {
+        "label": "Vespera Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vespera-dark-pro-color-theme.json"
       },
 	  {
         "label": "Vespera Dark Warm",
