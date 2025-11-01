@@ -6,21 +6,34 @@
 
 ![Vespera Theme Banner](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vespera-banner.png)
 
-> **Vespera Theme** — a dark, refined, and immersive color theme for Visual Studio Code.
-Inspired by deep night hues, subtle contrasts, and modern minimalism, Vespera brings balance and clarity to long coding sessions.
+> **Vespera Theme** — a dark and light color theme for VS Code, blending subtle contrasts and modern minimalism for clear, comfortable coding.
 
 ---
 
 ## ✨ Features
 
-- 🌌 **Dark Variants:** **Vespera Dark**, **Vespera Dark Ultra**, **Vespera Dark Pro** and **Vespera Dark Warm**.   
-- 🧠 **Semantic Highlighting:** Clear hierarchy for functions, classes, and variables.  
-- 🎨 **Tailwind CSS Support:** Enhanced highlighting for utilities, SCSS variables, and mixins.  
-- 💻 **Wide Language Coverage:** JavaScript, TypeScript, PHP, HTML, CSS/SCSS, Python, Java, C/C++, Ruby, JSX/TSX, and more.  
-- 👁 **Accessible Design:** All colors meet **WCAG 2.1** contrast standards.  
+- 🌌 **Multiple Variants:**
+  - **Dark Themes:** Vespera Dark, Vespera Dark Ultra, Vespera Dark Pro, Vespera Dark Warm
+  - **Light Themes:** Vespera Light, Vespera Light Ultra, Vespera Light Pro, Vespera Light Warm
+- 🧠 **Semantic Highlighting:** Clear hierarchy for functions, classes, and variables.
+- 🎨 **Tailwind CSS Support:** Enhanced highlighting for utilities, SCSS variables, and mixins.
+- 💻 **Wide Language Coverage:** JavaScript, TypeScript, PHP, HTML, CSS/SCSS, Python, Java, C/C++, Ruby, JSX/TSX, and more.
+- 👁 **Accessible Design:** All colors meet **WCAG 2.1** contrast standards.
 - 🌙 **Subtle UI Design:** Keeps focus on your code with minimal distractions.
 
 ---
+
+### Vespera Light
+![Vespera Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vespera-light.png)
+
+### Vespera Light Ultra
+![Vespera Dark Ultra Preview](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vespera-light-ultra.png)
+
+### Vespera Light Pro
+![Vespera Dark Warm Preview](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vespera-light-pro.png)
+
+### Vespera Light Warm
+![Vespera Dark Warm Preview](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vespera-light-warm.png)
 
 ### Vespera Dark
 ![Vespera Dark Preview](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/images/vespera-dark.png)
@@ -40,7 +53,9 @@ Inspired by deep night hues, subtle contrasts, and modern minimalism, Vespera br
 
 1. Open **VS Code → Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X`).  
 2. Search for **Vespera Theme** and click **Install**.  
-3. Press `Ctrl+Shift+P` → `Preferences: Color Theme` → select **Vespera Dark**, **Vespera Dark Ultra**, **Vespera Dark Pro** or **Vespera Dark Warm**.   
+3. Press `Ctrl+Shift+P` → `Preferences: Color Theme` → select one of the variants:  
+   - **Dark Themes:** Vespera Dark, Vespera Dark Ultra, Vespera Dark Pro, Vespera Dark Warm  
+   - **Light Themes:** Vespera Light, Vespera Light Ultra, Vespera Light Pro, Vespera Light Warm  
 4. Or install directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ovcharovcoder.vespera-theme).
 
 ---
