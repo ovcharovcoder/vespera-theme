@@ -1,8 +1,8 @@
 {
   "name": "vespera-theme",
   "displayName": "Vespera Theme",
-  "description": "A refined dark theme collection for VS Code — inspired by the night sky, minimalist design, and modern warmth.",
-  "version": "1.0.4",
+  "description": "A refined collection of dark and light themes for VS Code — inspired by minimalism, warm tones, and the contrast of day and night.",
+  "version": "1.0.5",
   "publisher": "ovcharovcoder",
   "repository": {
     "type": "git",
@@ -17,14 +17,15 @@
   ],
   "keywords": [
     "dark",
+    "light",
     "theme",
-    "vs code",
     "vscode",
-    "noctis",
+    "minimal",
     "modern",
-    "glow",
-    "cold",
-    "professional"
+    "warm",
+    "professional",
+    "vespera",
+    "contrast"
   ],
   "icon": "icon.png",
   "files": [
@@ -41,23 +42,41 @@
         "uiTheme": "vs-dark",
         "path": "./themes/vespera-dark-color-theme.json"
       },
-	  {
-        "label": "Vespera Dark Ultra",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vespera-dark-ultra-color-theme.json"
-      },
-	  {
+      {
         "label": "Vespera Dark Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/vespera-dark-pro-color-theme.json"
       },
-	  {
+      {
+        "label": "Vespera Dark Ultra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vespera-dark-ultra-color-theme.json"
+      },
+      {
         "label": "Vespera Dark Warm",
         "uiTheme": "vs-dark",
         "path": "./themes/vespera-dark-warm-color-theme.json"
+      },
+      {
+        "label": "Vespera Light",
+        "uiTheme": "vs",
+        "path": "./themes/vespera-light-color-theme.json"
+      },
+      {
+        "label": "Vespera Light Pro",
+        "uiTheme": "vs",
+        "path": "./themes/vespera-light-pro-color-theme.json"
+      },
+      {
+        "label": "Vespera Light Ultra",
+        "uiTheme": "vs",
+        "path": "./themes/vespera-light-ultra-color-theme.json"
+      },
+      {
+        "label": "Vespera Light Warm",
+        "uiTheme": "vs",
+        "path": "./themes/vespera-light-warm-color-theme.json"
       }
     ]
   }
 }
-
-
