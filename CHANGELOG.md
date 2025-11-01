@@ -4,6 +4,12 @@ All notable changes to the Vespera Theme VS Code extension will be documented in
 The format is based on Keep a Changelog, and this project adheres to Semantic Versioning.
 <br>
 
+## [1.0.5] - 2025-11-01
+
+### Added
+
+- Vespera Light, Light Pro, Light Ultra, and Light Warm Themes.
+
 ## [1.0.4] - 2025-10-31
 
 ### Added
