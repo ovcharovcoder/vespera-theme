@@ -22,7 +22,6 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 
 - Added a banner image to the topic presentation.
 
-
 ## [1.0.0] - 2025-10-28
 
 ### Added
