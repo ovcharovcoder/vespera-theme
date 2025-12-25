@@ -88,3 +88,20 @@ If you enjoy Vespera, consider supporting the author:
 Released under the [MIT License](https://raw.githubusercontent.com/ovcharovcoder/vespera-theme/main/LICENSE)
 
 Dark beauty with a minimalist soul. ✨
+
+---
+
+## 🧑‍💻 Development & Build
+
+**Requirements**
+
+- Node.js 18+
+- npm 9+
+- VS Code 1.81+
+
+
+**Install & Build**
+1. Download the project
+2. To build, use the following commands:<br>
+`npm install -g @vscode/vsce` <br>
+`vsce package`
